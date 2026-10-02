@@ -1,0 +1,121 @@
+{
+  "settings": {
+    "cafeName": "Craving Bite Cafe",
+    "tagline": "Big flavor. Zero compromise.",
+    "location": "Mansehra",
+    "whatsapp": "923109067376",
+    "phone": "03109067376",
+    "deliveryFee": 100,
+    "bankName": "Easypaisa",
+    "accountTitle": "Craving Bite Cafe",
+    "accountNumber": "03109067376",
+    "iban": "",
+    "opening": "11:00 AM",
+    "closing": "11:00 PM",
+    "about": "Fresh burgers, shawarma, fries & drinks.",
+    "banner": "FRESH • HOT • CRAVABLE"
+  },
+  "menu": [
+    {
+      "id": 1,
+      "cat": "Burgers",
+      "name": "Zinger Burger",
+      "price": 420,
+      "emoji": "🍔",
+      "desc": "Crispy chicken, lettuce & signature sauce.",
+      "available": true,
+      "best": true
+    },
+    {
+      "id": 2,
+      "cat": "Burgers",
+      "name": "Classic Chicken Burger",
+      "price": 350,
+      "emoji": "🍔",
+      "desc": "Juicy chicken patty with fresh toppings.",
+      "available": true,
+      "best": false
+    },
+    {
+      "id": 3,
+      "cat": "Burgers",
+      "name": "Double Zinger",
+      "price": 620,
+      "emoji": "🍔",
+      "desc": "Double crispy chicken with extra cheese.",
+      "available": true,
+      "best": true
+    },
+    {
+      "id": 4,
+      "cat": "Shawarma",
+      "name": "Chicken Shawarma",
+      "price": 300,
+      "emoji": "🌯",
+      "desc": "Tender chicken, veggies & creamy sauce.",
+      "available": true,
+      "best": true
+    },
+    {
+      "id": 5,
+      "cat": "Shawarma",
+      "name": "Cheese Shawarma",
+      "price": 360,
+      "emoji": "🌯",
+      "desc": "Loaded with melted cheese.",
+      "available": true,
+      "best": false
+    },
+    {
+      "id": 6,
+      "cat": "Fries",
+      "name": "Regular Fries",
+      "price": 180,
+      "emoji": "🍟",
+      "desc": "Golden, crispy & perfectly salted.",
+      "available": true,
+      "best": false
+    },
+    {
+      "id": 7,
+      "cat": "Fries",
+      "name": "Loaded Fries",
+      "price": 320,
+      "emoji": "🍟",
+      "desc": "Loaded with cheese & signature sauce.",
+      "available": true,
+      "best": true
+    },
+    {
+      "id": 8,
+      "cat": "Drinks",
+      "name": "Cold Drink",
+      "price": 120,
+      "emoji": "🥤",
+      "desc": "Chilled soft drink.",
+      "available": true,
+      "best": false
+    },
+    {
+      "id": 9,
+      "cat": "Drinks",
+      "name": "Mineral Water",
+      "price": 80,
+      "emoji": "💧",
+      "desc": "Chilled bottled water.",
+      "available": true,
+      "best": false
+    }
+  ],
+  "coupons": [
+    {
+      "id": 1,
+      "code": "CBC10",
+      "type": "percent",
+      "value": 10,
+      "active": true
+    }
+  ],
+  "orders": [],
+  "customers": []
+}
